@@ -14,7 +14,7 @@ public class InstantiateFirefoxBrowser {
 		// Launch URL
 		driver.get("https://www.yahoo.in/");
 		driver.manage().window().maximize();
-		
+		driver.quit();
 	}
 
 }

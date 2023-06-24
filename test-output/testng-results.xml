@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-06-07T21:29:09 IST" name="Default suite" finished-at="2023-06-07T21:29:26 IST" duration-ms="17460">
+  <suite started-at="2023-06-10T06:33:26 IST" name="Suite" finished-at="2023-06-10T06:33:34 IST" duration-ms="8615">
     <groups>
     </groups>
-    <test started-at="2023-06-07T21:29:09 IST" name="Default test" finished-at="2023-06-07T21:29:26 IST" duration-ms="17460">
+    <test started-at="2023-06-10T06:33:26 IST" name="Test" finished-at="2023-06-10T06:33:34 IST" duration-ms="8615">
       <class name="MySeleniumJavaClass2">
-        <test-method signature="testExecution()[pri:0, instance:MySeleniumJavaClass2@1dac5ef]" started-at="2023-06-07T21:29:09 IST" name="testExecution" finished-at="2023-06-07T21:29:26 IST" duration-ms="17406" status="PASS">
+        <test-method signature="testExecution()[pri:0, instance:MySeleniumJavaClass2@58ea606c]" started-at="2023-06-10T06:33:26 IST" name="testExecution" finished-at="2023-06-10T06:33:34 IST" duration-ms="8555" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testExecution -->
       </class> <!-- MySeleniumJavaClass2 -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
